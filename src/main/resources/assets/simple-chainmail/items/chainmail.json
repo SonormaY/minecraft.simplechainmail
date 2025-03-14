@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "simple-chainmail:item/chainmail"
+  }
+}
